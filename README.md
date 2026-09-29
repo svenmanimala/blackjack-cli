@@ -10,4 +10,4 @@ A command-line implementation of classic casino Blackjack (21) written in pure P
 
 ## Tech Stack
 * **Language:** Python
-* **Libraries:** Standard library only (`random`)
+* **Libraries:** Standard library only (`random`, `time`, `sys`)
